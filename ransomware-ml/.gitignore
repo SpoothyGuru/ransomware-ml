@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+
+# Environment files
+.env
+.env.*
+
+# Dataset files
+*.parquet
+*.csv
+*.pkl
+
+# Node modules
+node_modules/
+
+# System files
+.DS_Store
+Thumbs.db
