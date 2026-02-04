@@ -1,6 +1,9 @@
-# 🛡️ AI-Powered Malware Detection System
+# 🛡️ AI-Powered Malware Detection System using Machine Learning Ensemble Models
 
 This project implements an advanced malware detection system using ensemble machine learning to analyze PDF, DOCX, DOC, and JSON files for potential malicious content.
+
+## 📝 Project Summary
+A machine learning-based system that detects malicious files using ensemble models and provides a web-based interface for real-time analysis.
 
 ## 🎯 Features
 
@@ -153,3 +156,8 @@ This project is intended for research and educational purposes only. Use respons
 
 - Dataset provided by the Canadian Institute for Cybersecurity (CIC)
 - Built with scikit-learn, XGBoost, and Gradio
+
+## 👩‍💻 Author
+**Spoorthi S G**  
+B.E. Computer Science & Engineering  
+GitHub: https://github.com/SpoothyGuru
